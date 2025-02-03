@@ -148,4 +148,5 @@ app.put('/staff/:staffId', async (req, res) => {
 });
 
 // Start server
-app.listen(1000, () => console.log('Server is up and running on port 3000'));
+app.listen(3000, () => console.log('Server is up and running on port 3000'));
+
